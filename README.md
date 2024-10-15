@@ -1,9 +1,9 @@
-OVERVIEW
+**OVERVIEW**
 
 DemoBlaze is an e-commerce website built for demonstration purposes, featuring a user-friendly interface for browsing and purchasing products. This repository includes end-to-end testing using Cypress, written in TypeScript, and utilizes npm, Node.js, and the Faker API.
 
 
-TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 
 1. Features
 2. Installation
@@ -13,7 +13,7 @@ TABLE OF CONTENTS
 6. License
 
 
-FEATURES
+**FEATURES**
 
 - User authentication and authorization
 - Product browsing and filtering
@@ -23,7 +23,7 @@ FEATURES
 - Utilization of Faker API for generating fake data
 
 
-INSTALLATION
+**INSTALLATION**
 
 To run DemoBlaze locally, follow these steps:
 
@@ -34,13 +34,14 @@ To run DemoBlaze locally, follow these steps:
 5. Start the server: npm start or yarn start
 
 
-USAGE
+**USAGE**
 
 - Open your web browser and navigate to http://localhost:3000
 - Explore the website, browse products, and test the shopping cart functionality
 
 
-TESTING
+**TESTING**
+
 To run Cypress tests, follow these steps:
 
 1. Open a new terminal window
@@ -48,7 +49,8 @@ To run Cypress tests, follow these steps:
 3. Select the desired test to run
 
 
-CONTRIBUTING
+**CONTRIBUTING**
+
 Contributions are welcome! To contribute, follow these steps:
 
 1. Fork the repository
@@ -57,7 +59,8 @@ Contributions are welcome! To contribute, follow these steps:
 4. Open a pull request to the main repository
 
 
-LICENSE
+**LICENSE**
+
 DemoBlaze is licensed under the MIT License.
 
 Visit DemoBlaze Repository Visit DemoBlaze Repository
