@@ -36,7 +36,7 @@ To run DemoBlaze locally, follow these steps:
 
 **USAGE**
 
-- Open your web browser and navigate to http://localhost:3000
+- Open your web browser and navigate to https://www.demoblaze.com/
 - Explore the website, browse products, and test the shopping cart functionality
 
 
