@@ -1,0 +1,24 @@
+[
+    {
+      "id": 0,
+      "username": "admin",
+      "password": "admin",
+      "name": "John C Montes",
+      "country": "Colombia",
+      "city": "Medellin",
+      "creditCard": "9988776655443322",
+      "month": "10",
+      "year": "2026"
+    },
+    {
+      "id": 1,
+      "username": "admin",
+      "wrongPassword": "admin",
+      "name": "Margarita Rodriguez",
+      "country": "Colombia",
+      "city": "Barranquilla",
+      "creditCard": "",
+      "month": "10",
+      "year": "2026"
+    }
+]
